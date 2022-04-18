@@ -1,0 +1,43 @@
+/* Sistema */
+body {font-family: Comfortaa Bold;background-color: black;color: white;margin: 0;}
+@font-face{font-family: "Comfortaa Bold";src: url("Comfortaa-Bold.ttf");}
+
+/* bar */
+#color_bar{height: 100px;background-color: black;color: white;}
+
+/* Nameogo */
+#mid{transition-duration: 0.4s;cursor: pointer;width: 100px;margin: auto;font-size: 70px;color: #ff6a00;text-decoration: none;margin-top: 5px;margin-left: 20px;}
+#ya{transition-duration: 0.4s;cursor: pointer;width: 100px;margin: auto;font-size: 70px;color: yellow;text-decoration: none;margin-top: 5px;}
+#mid:hover{color: white;}
+#ya:hover{color: white;}
+
+/* Imahe */
+#imahe {transition-duration: 1s;}
+#imahe:hover {opacity: 0.5;}
+
+/* Gitna */
+#gitnangteksto{text-align: center;}
+#gitnangbagay {text-align: center;margin-top: 40px;}
+
+/* Hyperlink */
+.hyperlink {transition-duration: 0.4s;background-color: #ff6a00;color: white;padding: 20px 30px;text-decoration: none;border-radius: 10px;}
+.hyperlink:hover {background-color: yellow;color: black;}
+
+/* Istilo */
+.istilongespesyal {background-color: #ff6a00;color: white;padding: 15px 25px;text-align: center;width: 91%;}
+.istilongngalan {background-color: yellow;color: black;padding: 3.5px 5px;text-decoration: none;font-size: xx-large;display: inline-block;}
+.istilongngalan:hover {background-color: #ff6a00;color: white;}
+
+/* Parihaba */
+.link {text-decoration: none;transition-duration: 0.4s;color: #ff6a00;}
+.link:hover {color: white;}
+.parihaba {background-color: yellow;color: black;padding: 15px 25px;text-align: center;}
+
+/* Buton */
+.buton{text-align: center;}
+.buton button{font-family: Comfortaa Bold;transition-duration: 0.4s;cursor: pointer;border-radius: 5px;width: 19%;border: none;background-color: #ff6a00;color: white;padding: 10px 10px;font-size: 30px;text-align: center;}
+.buton button:hover {background-color: yellow;color: black;}
+#buton-d-gumagana{font-family: Comfortaa Bold;transition-duration: 0.4s;cursor: pointer;border-radius: 5px;width: 49%;border: none;background-color: gray;color: white;padding: 14px 28px;font-size: 30px;text-align: center;}
+
+/* Copyright */
+.copyright{text-align: center;}

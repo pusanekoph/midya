@@ -1,0 +1,17 @@
+/* Sistema */
+body {font-family: Comfortaa Bold;background-color: black;color: white;margin: 0;}
+@font-face{font-family: "Comfortaa Bold";src: url("Comfortaa-Bold.ttf");}
+h2 {color: #ff6a00;}
+
+/* Nameogo */
+#mid{transition-duration: 0.4s;cursor: pointer;width: 100px;margin: auto;font-size: 70px;color: #ff6a00;text-decoration: none;margin-top: 5px;margin-left: 20px;}
+#ya{transition-duration: 0.4s;cursor: pointer;width: 100px;margin: auto;font-size: 70px;color: yellow;text-decoration: none;margin-top: 5px;}
+#mid:hover{color: white;}
+#ya:hover{color: white;}
+
+/* Gitna */
+#gitnangbagay {text-align: center;margin-top: 40px;}
+
+/* Link */
+a {text-decoration: none;transition-duration: 0.4s;color: yellow;}
+a:hover {color: white;}
